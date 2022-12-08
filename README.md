@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gilvanmaya
-- 👀 I’m interested in ...aprender novas limguagens de progamação e trabalha
-- 🌱 I’m currently learning phyon
-- 💞️ I’m looking to collaborate on tudo
+- 👀 I’m interested in aprender novas limguagens de progamação e trabal
+- 🌱 I’m currently learning pyton, js
+- 💞️ I’m looking to collaborate on all
 - 📫 How to reach me pelo email 
 
 <!---
